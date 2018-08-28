@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week4/SymbolTables/BinarySearchTree.java" line="334" mnemonic="D" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0cd0e17-9aa6-4c65-9108-99820584de55" name="Default" comment="" />
+    <ignored path="Anuj.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Anuj$BinarySearchTree.coverage" NAME="BinarySearchTree Coverage Results" MODIFIED="1499621914776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Algorithms_Coursera.Week4.SymbolTables.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Anuj$EditDistanceRecursion.coverage" NAME="EditDistanceRecursion Coverage Results" MODIFIED="1504382762601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Repeat_Practice.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2050134046">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3204" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3204" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Anuj" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="184" column="42" selection-start-line="184" selection-start-column="42" selection-end-line="184" selection-end-column="42" />
+              <folding>
+                <element signature="e#4077#4078#0" expanded="true" />
+                <element signature="e#4109#4110#0" expanded="true" />
+                <element signature="e#4215#4216#0" expanded="true" />
+                <element signature="e#4247#4248#0" expanded="true" />
+                <element signature="e#4429#4430#0" expanded="true" />
+                <element signature="e#4487#4488#0" expanded="true" />
+                <element signature="e#6896#6897#0" expanded="true" />
+                <element signature="e#6957#6958#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-569">
+              <caret line="4221" column="60" lean-forward="true" selection-start-line="4221" selection-start-column="60" selection-end-line="4221" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="203" selection-start-line="203" selection-end-line="203" />
+              <folding>
+                <element signature="e#7468#7469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>visitedTiles.ad</find>
+      <find>deep</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/NearestNeighborSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/IntervalBSTNode.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/RectangleIntersection_SweepLineAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/OrthoginalRectangleIntersection_SweepLineAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/OrthogonalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/Point.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/OrthogonalRectangleIntersection_SweepLineAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/IntervalBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/IntervalRangeSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week6/LinearProbing.java" />
+        <option value="$PROJECT_DIR$/src/com/InterviewProblems/Circle_BankBazaar.java" />
+        <option value="$PROJECT_DIR$/src/com/InterviewProblems/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week6/SeparateChaining.java" />
+        <option value="$PROJECT_DIR$/src/com/Repeat_Practice/Strings.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/Paths.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DepthFirstPaths.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/BreadthFirstPaths.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/ConnectedComponents.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/HasCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/CyclicGraphs.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/BipartiteGraphs.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/Digraph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedDFS.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/DepthFirstPaths.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/DirectedDFS.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/synsets" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/WordNet.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/DirectedBFS.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/Digraph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/ConnectedComponents.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week1/QuickUnion.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/KruskalsAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/PrimsLazyAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/WeightedEdge.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/WeightedEdgeGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/IndexMinPQ.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/PrimsEagerAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DirectedEdge.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DirectedWeightedEdge.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/PrimsEagerAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/WeightedEdgeGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DirectedWeightedGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DijkstrasAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_Coursera/Week4/SymbolTables/UnorderedSymbolTable.java" />
+        <option value="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/KruskalsAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/Repeat_Practice/TestCode.java" />
+        <option value="$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Anuj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anuj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anuj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anuj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anuj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anuj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anuj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anuj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Repeat_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anuj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Point&#9;PSI&#9;JAVA://com.Algorithms_Coursera.Week3.MergeSort.Point&#10;dire&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/DirectedDFS.java&#10;directeded&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.DirectedEdge&#10;topo&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/TopologicalSort.java&#10;minp&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week2/MinPriorityQueue.java&#10;minP&#9;FILE&#9;jar:///home/local/JASPERINDIA/anuj.jain02/Downloads/algs4.jar!/edu/princeton/cs/algs4/MinPQ.java&#10;Prior&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/PriorityQueue.java&#10;Kruska&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week2/KruskalsAlgorithm.java&#10;Min&#9;FILE&#9;jar:///home/local/JASPERINDIA/anuj.jain02/Downloads/algs4.jar!/edu/princeton/cs/algs4/MinPQ.java&#10;Iter&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week2/StacksAndQueues/IterableGenericStackUsingResizingArray.java&#10;Krus&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week2/KruskalsAlgorithm.java&#10;MinPQ&#9;FILE&#9;jar:///home/local/JASPERINDIA/anuj.jain02/Downloads/algs4.jar!/edu/princeton/cs/algs4/MinPQ.java&#10;Prio&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/PriorityQueue.java&#10;union&#9;PSI&#9;JAVA://com.Algorithms_Coursera.Week1.WeightedQuickUnionWithPathCompression&#10;PriorQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Union&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week1/QuickUnion.java&#10;bip&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_2_Coursera/Week1/BipartiteGraphs.java&#10;maxpr&#9;PSI&#9;JAVA://com.GeeksForGeeks.Array.Find_Maximum_Product_Of_A_Triplet&#10;maximum&#9;PSI&#9;JAVA://com.GeeksForGeeks.Array.Maximum_Absolute_Difference_Between_Sum_Of_2_Contiguous_Subarrays&#10;string&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Repeat_Practice/Strings.java&#10;Linea&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week6/LinearProbing.java&#10;BinaryTree&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/Tree/Binary_Tree.java&#10;rec&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week5/OrthogonalRectangleIntersection_SweepLineAlgorithm.java&#10;bin&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/SymbolTables/BinarySearchTree.java&#10;Inter&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week5/IntervalRangeSearch.java&#10;Event&#9;PSI&#9;JAVA://com.Algorithms_Coursera.Week5.LineIntersection_SweepLineAlgorithm.Event&#10;Bina&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/SymbolTables/BinarySearchTree.java&#10;Red&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week5/RedBlackTree.java&#10;i&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/SymbolTables/BinarySearchTree.java&#10;BST&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/SymbolTables/BinarySearchTree.java&#10;subar&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/Array/Zero_Sum_Sub_Array.java&#10;Hea&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/PriorityQueues/HeapSort.java&#10;Gener&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week2/StacksAndQueues/IterableGenericStackUsingResizingArray.java&#10;lowes&#9;PSI&#9;JAVA://com.GeeksForGeeks.Tree.Lowest_Common_Ancestor&#10;edit&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/DynamicProgramming/Edit_Distance.java&#10;subtr&#9;PSI&#9;JAVA://com.GeeksForGeeks.Tree.Check_If_A_Binary_Tree_Is_A_Subset_Of_Another_Binary_Tree&#10;edi&#9;PSI&#9;JAVA://com.GeeksForGeeks.DynamicProgramming.Edit_Distance&#10;StringPool&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/oracle/jrockit/jfr/StringConstantPool.class&#10;Quic&#9;PSI&#9;JAVA://com.Algorithms_Coursera.Week3.QuickSort.QuickSort&#10;Merges&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week3/MergeSort/MergeSort.java&#10;Mer&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week3/MergeSort/MergeSort.java&#10;Opti&#9;PSI&#9;JAVA://com.Algorithms_Coursera.Week3.MergeSort.OptimisedMergeSort&#10;Inser&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Repeat_Practice/InsertionSort.java&#10;Sele&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week2/ElementarySorts/SelectionSort.java&#10;Node&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/Tree/Node.java&#10;Tree&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/Tree/Binary_Tree.java&#10;Bin&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/GeeksForGeeks/Tree/Binary_Tree_To_Doubly_Linked_List.java&#10;Order&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week4/SymbolTables/OrderedSymbolTable.java&#10;Bru&#9;FILE&#9;file:///home/local/JASPERINDIA/anuj.jain02/Anuj/src/com/Algorithms_Coursera/Week3/MergeSort/BruteCollinearPoints.java&#10;BCLoa&#9;PSI&#9;JAVA://java.lang.instrument.Instrumentation#appendToBootstrapClassLoaderSearch" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535178670343" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Algorithms_Coursera.Week3.MergeSort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FourPuzzleProblem">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstrasAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algorithms_2_Coursera.Week2.ShortestPaths.DijkstrasAlgorithm" />
+      <module name="Anuj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Algorithms_2_Coursera.Week2.ShortestPaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourPuzzleProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Repeat_Practice.FourPuzzleProblem" />
+      <module name="Anuj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Repeat_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KruskalsAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algorithms_2_Coursera.Week2.MinimumSpanningTrees.KruskalsAlgorithm" />
+      <module name="Anuj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Algorithms_2_Coursera.Week2.MinimumSpanningTrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimsEagerAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algorithms_2_Coursera.Week2.MinimumSpanningTrees.PrimsEagerAlgorithm" />
+      <module name="Anuj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Algorithms_2_Coursera.Week2.MinimumSpanningTrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Repeat_Practice.TestCode" />
+      <module name="Anuj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Repeat_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.KruskalsAlgorithm" />
+      <item itemvalue="Application.PrimsEagerAlgorithm" />
+      <item itemvalue="Application.DijkstrasAlgorithm" />
+      <item itemvalue="Application.FourPuzzleProblem" />
+      <item itemvalue="Application.TestCode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FourPuzzleProblem" />
+        <item itemvalue="Application.TestCode" />
+        <item itemvalue="Application.KruskalsAlgorithm" />
+        <item itemvalue="Application.DijkstrasAlgorithm" />
+        <item itemvalue="Application.PrimsEagerAlgorithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0cd0e17-9aa6-4c65-9108-99820584de55" name="Default" comment="" />
+      <created>1487449019915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487449019915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1551" height="839" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34741783" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29721814" />
+      <window_info anchor="bottom" x="22" y="277" width="1491" height="268" id="Debug" order="3" weight="0.37920937" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32765958" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4906542" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4906542" weight="0.32954547" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50934577" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34741783" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29868227" />
+      <window_info anchor="bottom" x="22" y="277" width="1491" height="268" id="Debug" order="3" weight="0.37920937" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32765958" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4906542" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4906542" weight="0.32954547" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50934577" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week3/MergeSort/BottomUpMergeSort.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Backtracking/Loop_The_Loop.java</url>
+          <line>201</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/ClassLoader.java</url>
+          <line>1407</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/InterviewProblems/Yatra_Substring.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Tree/Level_Order_Traversal_Recursion.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Tree/Level_Order_Traversal_Recursion.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Tree/Level_Order_Traversal_Recursion.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/QuickSort.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/LC_006_ZigZag_Conversion.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/Reverse_Level_Order_Traversal_For_BST.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/Reverse_Level_Order_Traversal_For_BST.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/EditDistanceRecursion.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Tree/Lowest_Common_Ancestor.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/GeeksForGeeks/Array/Zero_Sum_Sub_Array.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/IntervalBinarySearchTree.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/OrthogonalRectangleIntersection_SweepLineAlgorithm.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week5/IntervalBinarySearchTree.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/BipartiteGraphs.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/WeightedEdgeGraph.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java</url>
+          <line>2816</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/instrument/Instrumentation.java</url>
+          <line>382</line>
+          <properties class="java.lang.instrument.Instrumentation" />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="visitedTiles" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>visitedTiles</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>copyCurrentTile.hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visitedTiles.toArray()[1].hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visitedTiles.toArray()[1].equals(copyCurrentTile)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visitedTiles.toArray()[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visitedTiles</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>copyCurrentTile</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visitedTiles.toArray()[1].equals(visitedTiles.toArray()[2])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>o1.equals(o2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tile</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/BipartiteGraphs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/BreadthFirstPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/CyclicGraphs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/DepthFirstPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/synsets" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/WordNet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/DirectedBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/UndirectedGraphs/ConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week1/QuickFind.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week1/WeightedQuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/ConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week4/PriorityQueues/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Set.java" />
+    <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/Bag.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week1/WeightedQuickUnionWithPathCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week4/PriorityQueues/BinaryHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week2/StacksAndQueues/IterableGenericStackUsingResizingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week1/QuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Iterator.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Comparable.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/PriorityQueue.java" />
+    <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/MinPQ.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/TopologicalSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/DirectedEdge.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week1/DirectedGraphs/DirectedDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/MinPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/PrimsLazyAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/WeightedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/WeightedEdgeGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week3/MergeSort/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/PrimsEagerAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DijkstrasAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/InterviewProblems/Amazon_Max_Bandwidth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_Coursera/Week4/SymbolTables/UnorderedSymbolTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/MinimumSpanningTrees/KruskalsAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Repeat_Practice/BinaryTreeToDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DirectedWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Algorithms_2_Coursera/Week2/ShortestPaths/DirectedWeightedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Repeat_Practice/TestCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="118" column="14" lean-forward="true" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+          <folding>
+            <element signature="e#7468#7469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569">
+          <caret line="4221" column="60" lean-forward="true" selection-start-line="4221" selection-start-column="60" selection-end-line="4221" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Repeat_Practice/FourPuzzleProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="184" column="42" selection-start-line="184" selection-start-column="42" selection-end-line="184" selection-end-column="42" />
+          <folding>
+            <element signature="e#4077#4078#0" expanded="true" />
+            <element signature="e#4109#4110#0" expanded="true" />
+            <element signature="e#4215#4216#0" expanded="true" />
+            <element signature="e#4247#4248#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="e#4487#4488#0" expanded="true" />
+            <element signature="e#6896#6897#0" expanded="true" />
+            <element signature="e#6957#6958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Anuj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
