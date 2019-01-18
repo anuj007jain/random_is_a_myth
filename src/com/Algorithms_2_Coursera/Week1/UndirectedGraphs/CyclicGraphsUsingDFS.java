@@ -3,13 +3,14 @@ package com.Algorithms_2_Coursera.Week1.UndirectedGraphs;
 /**
  * Created by anuj.jain02 on 18/2/18.
  */
-public class CyclicGraphs {
+//DFS based algorithms to check cycles
+public class CyclicGraphsUsingDFS {
 
     static boolean[] marked;
     static boolean cycle;
     static int[] edgeTo;
 
-    public CyclicGraphs(Graph G) {
+    public CyclicGraphsUsingDFS(Graph G) {
         marked = new boolean[G.V()];
         edgeTo = new int[G.V()];
         cycle = false;
@@ -58,7 +59,7 @@ public class CyclicGraphs {
         G.addEdge(5,4);
         G.addEdge(5,8);
         G.addEdge(8,6);
-        new CyclicGraphs(G);
+        new CyclicGraphsUsingDFS(G);
 
     }
 
