@@ -82,8 +82,6 @@ public class DijkstrasAlgorithm<Key extends Comparable> {
 
         DijkstrasAlgorithm da = new DijkstrasAlgorithm<>(G);
 
-        int x = 5;
-
 
     }
 }
