@@ -11,14 +11,14 @@ import java.util.Queue;
 public class DijkstrasAlgorithm<Key extends Comparable> {
 
     IndexMinPQ<DirectedWeightedEdge> indexMinPQ;
-    DirectedWeightedEdge[] edgeto;
+    DirectedWeightedEdge[] edgeTo;
     Queue<Integer> shortestPathTree;
     double[] distTo;
 
     public DijkstrasAlgorithm(DirectedWeightedGraph G) {
 
         indexMinPQ = new IndexMinPQ<>(G.V());
-        edgeto = new DirectedWeightedEdge[G.V()];
+        edgeTo = new DirectedWeightedEdge[G.V()];
         shortestPathTree = new LinkedList<>();
         distTo = new double[G.V()];
         for(int v = 1 ; v < G.V() ; v++) {
@@ -50,7 +50,7 @@ public class DijkstrasAlgorithm<Key extends Comparable> {
                 indexMinPQ.decreaseKey(w, edge);
             }
             distTo[w] = distTo[v] + edge.weight();
-            edgeto[w] = edge;
+            edgeTo[w] = edge;
         }
     }
 
@@ -81,6 +81,7 @@ public class DijkstrasAlgorithm<Key extends Comparable> {
         G.addEdge(new DirectedWeightedEdge(7, 2, 7.0));
 
         DijkstrasAlgorithm da = new DijkstrasAlgorithm<>(G);
+        int x = 0;
 
 
     }
