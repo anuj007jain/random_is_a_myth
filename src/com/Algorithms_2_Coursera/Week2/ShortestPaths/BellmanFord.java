@@ -1,16 +1,30 @@
 package com.Algorithms_2_Coursera.Week2.ShortestPaths;
 
+import java.util.HashSet;
+import java.util.Set;
 import java.util.Stack;
 
 public class BellmanFord {
 
-    int[] pathFrom;
-    double[] pathLen;
+    private int[] pathFrom;
+    private double[] pathLen;
+    private boolean negativeCyclePresent;
+    private Stack<Integer> negativeCycle;
+
+    public boolean isNegativeCyclePresent() {
+        return negativeCyclePresent;
+    }
+
+    public Iterable<Integer> getNegativeCycle() {
+        return negativeCycle;
+    }
 
     public BellmanFord(DirectedWeightedGraph G) {
 
+        negativeCyclePresent = false;
         pathFrom = new int[G.V()];
         pathLen = new double[G.V()];
+        negativeCycle = new Stack<>();
 
         for (int i = 1 ; i < G.V() ; i++) {
             pathLen[i] = Double.POSITIVE_INFINITY;
@@ -28,7 +42,7 @@ public class BellmanFord {
             for (int v = 0 ; v < G.V() ; v++) {
                 if (updatedVerticesInPrevPass[v]) {
                     anyVertexUpdated = true;
-                    continue;
+                    break;
                 }
             }
             if (!anyVertexUpdated) {
@@ -42,6 +56,29 @@ public class BellmanFord {
                 for (DirectedWeightedEdge edge : G.adj(v)) {
                     if (relaxEdge(edge)) {
                         updatedVerticesInThisPass[edge.to()] = true;
+                    }
+                }
+            }
+            if (pass == G.V() - 1 && anyVertexUpdated) {
+                boolean negativeCycleFound = false;
+                negativeCyclePresent = true;
+                for (int v = 0 ; v < G.V() && !negativeCycleFound; v++) {
+                    int w = pathFrom[v];
+                    Set<Integer> set = new HashSet<>();
+                    while (w != 0) {
+                        if (set.contains(w)) {
+                            negativeCycle.add(w);
+                            int k = pathFrom[w];
+                            while (k != w) {
+                                negativeCycle.add(k);
+                                k = pathFrom[k];
+                            }
+                            negativeCycleFound = true;
+                            break;
+                        } else {
+                            set.add(w);
+                            w = pathFrom[w];
+                        }
                     }
                 }
             }
@@ -113,6 +150,8 @@ public class BellmanFord {
         BellmanFord bf = new BellmanFord(G1);
         bf.printPathLen();
         bf.printPaths();
+        System.out.println(bf.isNegativeCyclePresent());
+        System.out.println(bf.getNegativeCycle());
     }
 
 }
