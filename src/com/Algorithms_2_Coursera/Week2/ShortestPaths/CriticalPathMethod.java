@@ -16,7 +16,7 @@ public class CriticalPathMethod {
             pathLen[i] = Double.POSITIVE_INFINITY;
         }
         DirectedWeightedGraph G = createGraphFromJobs(jobs);
-        TopologicalSort topSort = new TopologicalSort(G); //G is an acyclic graph here
+        TopologicalSort topSort = new TopologicalSort(G); //verticalG is an acyclic graph here
         //Iterable<Integer> order = topSort.order();
         //System.out.println(order);
         for (int i = 0 ; i < G.V() ; i++) {
