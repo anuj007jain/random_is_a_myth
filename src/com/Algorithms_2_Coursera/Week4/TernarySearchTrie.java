@@ -1,5 +1,8 @@
 package com.Algorithms_2_Coursera.Week4;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class TernarySearchTrie {
 
     private Node root;
@@ -38,23 +41,26 @@ public class TernarySearchTrie {
     }
 
     private Object get (String str) {
-        return get(root, str, 0);
-    }
-
-    private Object get (Node node, String str, int d) {
+        Node node =  get(root, str, 0);
         if (node == null) {
             return null;
         }
-        if (str.length() > d+1) {
-            if (node.c > str.charAt(d)) {
-                return get(node.left, str, d);
-            } else if (node.c < str.charAt(d)) {
-                return get(node.right, str, d);
-            } else {
-                return get(node.middle, str, d+1);
-            }
-        }
         return node.value;
+    }
+
+    private Node get (Node node, String str, int d) {
+        if (node == null) {
+            return null;
+        }
+        if (node.c > str.charAt(d)) {
+            return get(node.left, str, d);
+        } else if (node.c < str.charAt(d)) {
+            return get(node.right, str, d);
+        }
+        if (str.length() > d+1) {
+            return get(node.middle, str, d+1);
+        }
+        return node;
     }
 
     private void delete (String str) {
@@ -112,22 +118,83 @@ public class TernarySearchTrie {
         return false;
     }
 
+    public Iterable<String> keys() {
+        Queue<String> q = new LinkedList<>();
+        return keys(root, "", q);
+    }
+
+    private Iterable<String> keys(Node node, String str, Queue<String> q) {
+        if (node.value != null) {
+            q.add(str + node.c);
+        }
+        if (node.left != null) {
+            keys(node.left, str, q);
+        }
+        if (node.right != null) {
+            keys(node.right, str, q);
+        }
+        if (node.middle != null) {
+            keys(node.middle, str+node.c, q);
+        }
+        return q;
+    }
+
+    public Iterable<String> keysWithPrefix(String s) {
+        Queue<String> q = new LinkedList<>();
+        Node node = get(root, s, 0);
+        if (node == null) {
+            return q;
+        }
+        if (node.middle == null) {
+            q.add(s);
+            return q;
+        }
+        return keys(node.middle, s, q);
+    }
+
+    public String longestPrefixOf(String s) {
+        return longestPrefixOf(root, s, 0, "");
+    }
+
+    private String longestPrefixOf(Node node, String str, int d, String longestPrefix) {
+        if (node == null) {
+            return longestPrefix;
+        }
+        if (node.c > str.charAt(d)) {
+            return longestPrefixOf(node.left, str, d, longestPrefix);
+        } else if (node.c < str.charAt(d)) {
+            return longestPrefixOf(node.right, str, d, longestPrefix);
+        }
+        if (node.value != null) {
+            longestPrefix = str.substring(0, d+1);
+        }
+        if (str.length() > d+1) {
+            return longestPrefixOf(node.middle, str, d+1, longestPrefix);
+        }
+        return longestPrefix;
+    }
+
     public static void main(String[] args) {
 
         TernarySearchTrie tst = new TernarySearchTrie();
         tst.put("anuj", 3);
         tst.put("palak", 1);
         tst.put("payal", "qwe");
-//        System.out.println(tst.get("anuj"));
-//        System.out.println(tst.get("palak"));
-//        System.out.println(tst.get("payal"));
-//        System.out.println(tst.get("anuja"));
-//        System.out.println(tst.get("an"));
-//        System.out.println(tst.get("krish"));
-//        System.out.println(tst.get("paya"));
-        tst.delete("payal");
+        tst.put("rt",4);
+        tst.put("pa", 2);
+        System.out.println(tst.get("anuj"));
+        System.out.println(tst.get("palak"));
+        System.out.println(tst.get("payal"));
+        System.out.println(tst.get("anuja"));
+        System.out.println(tst.get("an"));
+        System.out.println(tst.get("krish"));
+        System.out.println(tst.get("paya"));
+//        tst.delete("payal");
         System.out.println(tst.get("payal"));
         System.out.println(tst.get("palak"));
+        System.out.println(tst.keys());
+        System.out.println(tst.keysWithPrefix("pal"));
+        System.out.println(tst.longestPrefixOf("p"));
 
     }
 
